@@ -60,7 +60,7 @@ The following four required visualizations were created to illustrate findings:
     ```bash
     jupyter notebook
     ```
-3.  **Open the Notebook:** In the browser window that opens, navigate to and click on `week8.ipynb`.
+3.  **Open the Notebook:** In the browser window that opens, navigate to and click on `week7.ipynb`.
 4.  **Run the Code:** Execute the cells sequentially from top to bottom (`Cell` -> `Run All`).
 
 ## Findings and Insights
